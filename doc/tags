@@ -1,0 +1,11 @@
+Format	format.txt	/*Format*
+FormatWrite	format.txt	/*FormatWrite*
+format	format.txt	/*format*
+format-changelog	format.txt	/*format-changelog*
+format-commands	format.txt	/*format-commands*
+format-introduction	format.txt	/*format-introduction*
+format-license	format.txt	/*format-license*
+format-setup	format.txt	/*format-setup*
+format-variables	format.txt	/*format-variables*
+format.txt	format.txt	/*format.txt*
+g:format_debug	format.txt	/*g:format_debug*
